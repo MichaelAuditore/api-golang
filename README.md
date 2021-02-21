@@ -114,20 +114,21 @@ URI http://localhost:8000
 
 ## GetAllTickets GET
 
-![GetAllTickets](https://imgur.com/XCAZJRW)
+![Imgur](https://i.imgur.com/P9wiiVk.png)
+
 
 ## CreateTicket POST
 
-![CreateTicket](https://imgur.com/Fvl9kk4)
+![Imgur](https://i.imgur.com/vLIBW6S.png)
 
 ## UpdateTicket PUT
 
-![UpdateTicket](https://imgur.com/Gye0YNK)
+![Imgur](https://i.imgur.com/gDJ9MXY.png)
 
 ## DeleteTicket DELETE
 
-![DeleteTicket](https://imgur.com/ua86EnH)
+![Imgur](https://i.imgur.com/PUKaFp7.png)
 
 ## GetTicketById GET
 
-![getTicketById](https://imgur.com/V7Oeu9p)
+![Imgur](https://i.imgur.com/QXE2YWJ.png)
